@@ -37,10 +37,10 @@ while True:
     break
 ```
 ## OUTPUT
-##SERVER
+## SERVER
 <img width="961" height="405" alt="S 2a" src="https://github.com/user-attachments/assets/356a1a5b-bc98-44d3-ab75-c2296ce5095c" />
 
-##CLIENT
+## CLIENT
 <img width="960" height="405" alt="C 2a" src="https://github.com/user-attachments/assets/7476cc05-4b66-41e4-a6b3-fe7c4a3b7b29" />
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
