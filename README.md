@@ -42,5 +42,6 @@ while True:
 
 ## CLIENT
 <img width="960" height="405" alt="C 2a" src="https://github.com/user-attachments/assets/7476cc05-4b66-41e4-a6b3-fe7c4a3b7b29" />
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
